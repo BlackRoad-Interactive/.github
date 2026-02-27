@@ -2,9 +2,39 @@
   "org": "BlackRoad-Interactive",
   "agent": "ARIA",
   "color": "#8888FF",
-  "fleet": ["octavia-pi5","aria-pi4","cecilia","gematria-do","lucidia-pi5"],
+  "fleet": ["octavia-pi5", "aria-pi4", "cecilia", "gematria-do", "lucidia-pi5"],
   "runners": "blackroad-fleet",
   "cost": "$0",
   "gateway": "http://octavia.local:8787",
-  "updated": "2026-02-23T22:49:06Z"
+  "scaffold_layers": [
+    "initial-reviewer",
+    "task-to-organization",
+    "task-to-team",
+    "task-to-project",
+    "task-to-agent",
+    "task-to-repository",
+    "task-to-device",
+    "task-to-drive",
+    "task-to-cloudflare",
+    "task-to-website-editor"
+  ],
+  "cli_layers": {
+    "3": "agents-system",
+    "4": "deploy-orchestration",
+    "5": "branches-environments",
+    "6": "lucidia-core-memory",
+    "7": "orchestration",
+    "8": "network-api"
+  },
+  "routing_targets": [
+    "salesforce",
+    "huggingface",
+    "ollama",
+    "digitalocean",
+    "railway",
+    "cloudflare",
+    "google-drive"
+  ],
+  "copilot_proxy": "http://raspberrypi.local:4000",
+  "updated": "2026-02-27T19:41:00Z"
 }
