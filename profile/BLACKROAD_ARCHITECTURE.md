@@ -221,7 +221,7 @@ A ten-step scaffolding process triggered by the `@blackroad-agents` command. Thi
 1. **Initial Reviewer** — A high-level agent (Layer 6, Lucidia Core) reviews the incoming request for clarity, security compliance, and resource availability. Generates a preliminary execution plan.
 2. **Task Distribution to Organization** — Routes the task to one of the fifteen BlackRoad organizations based on functional domain (hardware, security, cloud, etc.).
 3. **Task Distribution to Team** — Refines and distributes to a specific team within the organization. Handles human-in-the-loop (HITL) requirements, pausing for manual approval on high-risk operations.
-4. **Task Update to Project** — Records the task in a GitHub Project board. Metadata (Request ID, timeline) is synchronized with Salesforce for enterprise audit trailing.
+4. **Task Update to Project** — Records the task in a GitHub Project board. Metadata (Request ID, timeline) is synchronized with Salesforce for enterprise audit trail.
 5. **Task Distribution to Agent** — Instantiates or assigns a specialized autonomous agent (e.g., `fastapi-coder-agent`, `doctl-infrastructure-agent`). Agents follow the Planner-Executor-Reflector design pattern.
 6. **Task Distribution to Repository** — Identifies the target repository, creates a new branch following GitHub Flow branching strategy.
 7. **Task Distribution to Device** — Routes to the device layer for physical execution (firmware updates to Raspberry Pi, rebuilding DigitalOcean Droplets). Offloads from cloud to local hardware clusters.
