@@ -1,38 +1,38 @@
 <div align="center">
 
-# 🎮 BlackRoad Interactive
+# BlackRoad Interactive
 
-### Build Worlds. Ship Games.
+**Game engines, 3D rendering, physics, shaders, and interactive experiences.**
 
-Game engines, 3D rendering, 2D frameworks, and interactive experiences powered by the BlackRoad platform.
-
-[![Platform](https://img.shields.io/badge/Platform-blackroad.io-FF1D6C?style=for-the-badge)](https://blackroad.io)
-[![Agents](https://img.shields.io/badge/AI_Agents-30%2C000-9C27B0?style=for-the-badge)](https://agents.blackroad.io)
-[![Cost](https://img.shields.io/badge/AI_Cost-%240-F5A623?style=for-the-badge)](https://blackroad.io)
+[![Website](https://img.shields.io/badge/blackroad--interactive.github.io-000?style=flat-square&logo=github)](https://blackroad-interactive.github.io)
 
 </div>
 
 ---
 
-## 🎯 Focus Areas
+## Repositories
 
-`Game Engines` • `3D/WebGL` • `Graphics` • `Frameworks`
-
-## 🔗 Links
-
-| | |
+| Repository | Description |
 |---|---|
-| 🌐 **Website** | [blackroad-interactive.github.io](https://blackroad-interactive.github.io) |
-| 📖 **Docs** | [docs.blackroad.io](https://docs.blackroad.io) |
-| 💬 **Status** | [status.blackroad.io](https://status.blackroad.io) |
-| 🤖 **Agents** | [agents.blackroad.io](https://agents.blackroad.io) |
+| [interactive-core](https://github.com/BlackRoad-Interactive/interactive-core) | Core framework for interactive experiences |
+
+<details>
+<summary>Archived</summary>
+
+| Repository | Description |
+|---|---|
+| [blackroad-audio-engine](https://github.com/BlackRoad-Interactive/blackroad-audio-engine) | Real-time audio synthesis and processing engine |
+| [blackroad-game-engine](https://github.com/BlackRoad-Interactive/blackroad-game-engine) | Entity-Component-System game engine with ASCII terminal renderer |
+| [blackroad-physics-engine](https://github.com/BlackRoad-Interactive/blackroad-physics-engine) | 2D physics engine with rigid body dynamics and collision detection |
+| [blackroad-3d-renderer](https://github.com/BlackRoad-Interactive/blackroad-3d-renderer) | 3D wireframe renderer with matrix math and ASCII terminal output |
+| [blackroad-particle-system](https://github.com/BlackRoad-Interactive/blackroad-particle-system) | GPU-friendly particle system simulation |
+| [blackroad-shader-library](https://github.com/BlackRoad-Interactive/blackroad-shader-library) | GLSL shader collection and management system |
+| [blackroad-level-editor](https://github.com/BlackRoad-Interactive/blackroad-level-editor) | Tile-based level editor with export |
+| [blackroad-animation-controller](https://github.com/BlackRoad-Interactive/blackroad-animation-controller) | Skeletal and sprite animation controller |
+| [examples](https://github.com/BlackRoad-Interactive/examples) | Example interactive applications |
+
+</details>
 
 ---
 
-<div align="center">
-
-**Part of [BlackRoad OS](https://blackroad.io)** — 30,000 AI Agents • 17 Organizations • 1,800+ Repos • $0 AI Cost
-
-*© BlackRoad OS, Inc. All rights reserved.*
-
-</div>
+<sub>BlackRoad OS, Inc. — [blackroad.io](https://blackroad.io)</sub>
