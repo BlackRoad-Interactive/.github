@@ -1,38 +1,25 @@
-<div align="center">
-
 # BlackRoad Interactive
 
-**Game engines, 3D rendering, physics, shaders, and interactive experiences.**
-
-[![Website](https://img.shields.io/badge/blackroad--interactive.github.io-000?style=flat-square&logo=github)](https://blackroad-interactive.github.io)
-
-</div>
+**A division of [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) — Proprietary Software**
 
 ---
 
-## Repositories
+## About
 
-| Repository | Description |
-|---|---|
-| [interactive-core](https://github.com/BlackRoad-Interactive/interactive-core) | Core framework for interactive experiences |
+BlackRoad Interactive is the gaming and 3D division of BlackRoad OS. BlackRoad Interactive develops game engines, physics simulations, 3D rendering, shader libraries, and animation systems. Interactive experiences built from the ground up.
 
-<details>
-<summary>Archived</summary>
+All repositories in this organization are proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency. Commercial use, forking, and redistribution are prohibited.
 
-| Repository | Description |
-|---|---|
-| [blackroad-audio-engine](https://github.com/BlackRoad-Interactive/blackroad-audio-engine) | Real-time audio synthesis and processing engine |
-| [blackroad-game-engine](https://github.com/BlackRoad-Interactive/blackroad-game-engine) | Entity-Component-System game engine with ASCII terminal renderer |
-| [blackroad-physics-engine](https://github.com/BlackRoad-Interactive/blackroad-physics-engine) | 2D physics engine with rigid body dynamics and collision detection |
-| [blackroad-3d-renderer](https://github.com/BlackRoad-Interactive/blackroad-3d-renderer) | 3D wireframe renderer with matrix math and ASCII terminal output |
-| [blackroad-particle-system](https://github.com/BlackRoad-Interactive/blackroad-particle-system) | GPU-friendly particle system simulation |
-| [blackroad-shader-library](https://github.com/BlackRoad-Interactive/blackroad-shader-library) | GLSL shader collection and management system |
-| [blackroad-level-editor](https://github.com/BlackRoad-Interactive/blackroad-level-editor) | Tile-based level editor with export |
-| [blackroad-animation-controller](https://github.com/BlackRoad-Interactive/blackroad-animation-controller) | Skeletal and sprite animation controller |
-| [examples](https://github.com/BlackRoad-Interactive/examples) | Example interactive applications |
+## Parent Organization
 
-</details>
+This division operates under [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc), the corporate root of the BlackRoad ecosystem. See the parent org for the full technology stack, product catalog, and organizational structure.
+
+## License
+
+Proprietary — BlackRoad OS, Inc. See individual repositories for license terms.
 
 ---
 
-<sub>BlackRoad OS, Inc. — [blackroad.io](https://blackroad.io)</sub>
+**BlackRoad OS — Pave Tomorrow.**
+
+*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
