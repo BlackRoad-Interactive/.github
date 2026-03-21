@@ -1,25 +1,41 @@
+<div align="center">
+
+<img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
+
 # BlackRoad Interactive
 
-**A division of [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) — Proprietary Software**
+**Gaming and metaverse engines built from the ground up.**
+
+[![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
+
+</div>
 
 ---
 
 ## About
 
-BlackRoad Interactive is the gaming and 3D division of BlackRoad OS. BlackRoad Interactive develops game engines, physics simulations, 3D rendering, shader libraries, and animation systems. Interactive experiences built from the ground up.
+BlackRoad Interactive is the gaming and metaverse division. We develop game engines, physics simulations, 3D renderers, and audio systems -- the full stack needed to build immersive worlds without depending on Unity, Unreal, or any third-party engine. From Pixel HQ to open-world simulations, everything runs sovereign.
 
-All repositories in this organization are proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency. Commercial use, forking, and redistribution are prohibited.
+## Repositories
 
-## Parent Organization
+| Repository | Description |
+|------------|-------------|
+| [blackroad-game-engine](https://github.com/BlackRoad-Interactive/blackroad-game-engine) | Core game engine runtime and ECS architecture |
+| [blackroad-physics-engine](https://github.com/BlackRoad-Interactive/blackroad-physics-engine) | Rigid body and particle physics simulation |
+| [blackroad-3d-renderer](https://github.com/BlackRoad-Interactive/blackroad-3d-renderer) | GPU-accelerated 3D rendering pipeline |
+| [blackroad-shader-library](https://github.com/BlackRoad-Interactive/blackroad-shader-library) | GLSL/WGSL shader collection and compiler |
+| [blackroad-audio-engine](https://github.com/BlackRoad-Interactive/blackroad-audio-engine) | Spatial audio and sound design toolkit |
 
-This division operates under [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc), the corporate root of the BlackRoad ecosystem. See the parent org for the full technology stack, product catalog, and organizational structure.
+## Part of BlackRoad OS
 
-## License
+This organization is part of [BlackRoad OS, Inc.](https://blackroad.io) -- sovereign AI infrastructure built by Alexa Amundson.
 
-Proprietary — BlackRoad OS, Inc. See individual repositories for license terms.
+- 16 organizations | 275+ repositories | 20 domains
+- 7 nodes | 41.8 TOPS | 60 AI agents
+- Self-hosted everything. Your AI. Your hardware. Your rules.
 
 ---
 
-**BlackRoad OS — Pave Tomorrow.**
+**BlackRoad OS -- Pave Tomorrow.**
 
-*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
+[blackroad.io](https://blackroad.io) | [git.blackroad.io](https://git.blackroad.io)
