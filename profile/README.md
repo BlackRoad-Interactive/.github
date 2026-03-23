@@ -1,20 +1,19 @@
 # BlackRoad-Interactive
 
-**Games, simulations, interactive apps**
+**Gaming and metaverse** — Part of the BlackRoad OS ecosystem.
 
-Part of [BlackRoad OS](https://blackroad.io) — sovereign infrastructure built from bare metal up.
+> 18 orgs · 20 domains · 200 agents · Sovereign infrastructure
+
+16 public repositories | [blackroad.io](https://blackroad.io) | [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+## Key Repositories
+
+- [.github](https://github.com/BlackRoad-Interactive/.github) — Gaming, metaverse, 3D worlds — downstream from BlackRoad-OS-Inc[0:60]
+- [blackroad-interactive.github.io](https://github.com/BlackRoad-Interactive/blackroad-interactive.github.io) — BlackRoad OS GitHub Pages[0:60]
+- [interactive-core](https://github.com/BlackRoad-Interactive/interactive-core) — Core framework for interactive experiences[0:60]
+- [roadworld-games](https://github.com/BlackRoad-Interactive/roadworld-games) — roadworld games — BlackRoad OS[0:60]
+- [roadworld-minnesota](https://github.com/BlackRoad-Interactive/roadworld-minnesota) — roadworld-minnesota — BlackRoad-Interactive. Proprietary BlackRoad OS, Inc.[0:60]
 
 ---
 
-| | |
-|---|---|
-| **Parent** | [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) |
-| **Website** | [blackroad.io](https://blackroad.io) |
-| **Search** | [search.blackroad.io](https://search.blackroad.io) |
-| **Org Page** | [blackroad-interactive.github.io](https://blackroad-interactive.github.io) |
-
----
-
-> Built by [Alexa Amundson](https://blackroad.me). Delaware C-Corp. Founded November 2025.
-> 
-> 23 orgs · 2,280+ repos · 29 languages · 7 nodes · 52 TOPS
+Proprietary — BlackRoad OS, Inc. All rights reserved.
